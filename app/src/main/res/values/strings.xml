@@ -8,4 +8,25 @@
     <string name="final_text_view">Final_Bill</string>
     <string name="final_bill_edit_text">0.15</string>
     <string name="change_tip_text_view">Tip</string>
+    <string name="intro_text_view">Introduction</string>
+    <string name="intro_friendly_text_view">friendly</string>
+    <string name="intro_special_text_view">Specials</string>
+    <string name="intro_opinion_text_view">Opinion</string>
+    <string name="available_text_view">Availability</string>
+    <string name="available_bad_radio_button">Bad</string>
+    <string name="available_ok_radio_button">ok</string>
+    <string name="available_good_radio_button">good</string>
+    <string name="time_wait_text_view">Time waiting for service</string>
+    <string name="start_chronometer_button">start</string>
+    <string name="pause_chronometer_button">pause</string>
+    <string name="reset_chronometer_button">reset</string>
+    <string-array name="problem_solving">
+        <item>Problem Solving</item>
+        <item>Bad</item>
+        <item>Ok</item>
+        <item>Good</item>
+    </string-array>
+
+
+
 </resources>
